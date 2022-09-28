@@ -1,0 +1,33 @@
+/* GENERAL */
+html {
+  font-size: 18px;
+}
+/* - MAIN - */
+.content-left .btn-start {
+  margin-top: 1.3em;
+}
+main .container-main {
+  padding: 2em 0;
+  color: white;
+}
+/* Section newsletter */
+a:not(.logo) {
+  margin-left: 1em;
+}
+section.section-newsletter,.icon {
+  padding: 1.5em;
+}
+section .card {
+  margin-bottom: 1em;
+}
+
+/* - Section languages - */
+.second-img{
+  padding: 1em 0;
+}
+
+@media screen and (min-width: 768px) {
+  section .card {
+    margin-left: 1em;
+  }
+}
